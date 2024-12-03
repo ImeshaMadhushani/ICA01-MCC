@@ -31,17 +31,6 @@ This project is a React-based front-end application for an **Online Flower Shop*
 
 ---
 
-## 🚀 Setup Instructions
-
-1. **Download Project:**  
-   Copy the project ZIP file from the shared drive and extract it to your local system.
-
-2. **Run the Application:**  
-   Open the project in Visual Studio Code and start the development server:
-   ```bash
-   npm install
-   npm start
-
 ##Output 
 ![flower output](https://github.com/user-attachments/assets/4ccd29a8-d07c-4b20-abec-d395e7ddccf6)
 
