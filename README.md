@@ -31,6 +31,6 @@ This project is a React-based front-end application for an **Online Flower Shop*
 
 ---
 
-##Output 
+## Output 
 ![flower output](https://github.com/user-attachments/assets/4ccd29a8-d07c-4b20-abec-d395e7ddccf6)
 
